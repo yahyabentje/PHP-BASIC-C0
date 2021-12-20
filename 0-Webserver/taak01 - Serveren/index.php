@@ -1,10 +1,9 @@
 <?php
+    $Score=0;
+    $Score_Two=1;
+    $Output="Yahya = $Score <br>";
+    $Output_Twee= "Game score = $Score_Two ";
 
-$Score = 0;
-
-
-echo $Score
-
-
-
+    echo $Output;
+    echo $Output_Twee;
 ?>
