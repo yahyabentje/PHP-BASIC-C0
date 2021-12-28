@@ -35,4 +35,8 @@
     echo gettype($Indicator);
     echo $br;
     echo gettype($NoObject);
+    echo "<br>";
+
+    echo "Mijn naam is $MijnNaam en ik ben $Leeftijd";
+
 ?>
