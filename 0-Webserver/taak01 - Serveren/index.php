@@ -18,4 +18,21 @@
     $Naam = "Tom";
 
     echo gettype($Naam);
+    echo $br;
+
+    $MijnNaam = "Yahya";
+    $HeleGetal = 1;
+    $GebrokenGetal = 1.333;
+    $Indicator = true;
+    $NoObject = null;
+
+    echo gettype($MijnNaam);
+    echo $br;
+    echo gettype($HeleGetal);
+    echo $br;
+    echo gettype($GebrokenGetal);
+    echo $br;
+    echo gettype($Indicator);
+    echo $br;
+    echo gettype($NoObject);
 ?>
