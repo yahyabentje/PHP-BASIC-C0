@@ -48,5 +48,14 @@
 
     echo "Mijn naam is" . $MijnNaam . "en ik ben" . $Leeftijd . "jaar oud"; 
 
+    $items = "<li> Octopinol <br> </li>";
+    $items .= "<li> Blasbow <br> </li>";
+    $Tools = "$items <li> Sawasaki </li>";
+
+    
+    echo $Tools; 
+    
+    
+
 
 ?>
