@@ -9,7 +9,13 @@
 
     $True = true;
     $Null = null;
+    $br = "<br>"; 
 
     echo $True;
     echo $Null;
+    echo $br;
+
+    $Naam = "Tom";
+
+    echo gettype($Naam);
 ?>
