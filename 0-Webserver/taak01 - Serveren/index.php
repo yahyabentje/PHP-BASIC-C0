@@ -39,4 +39,10 @@
 
     echo "Mijn naam is $MijnNaam en ik ben $Leeftijd";
 
+    $Voornaam_een = "Yahya";
+    $Voornaam_twee = "Pritomus";
+    $Voornaam_drie = "Octopus";
+
+    echo "<li>$Voornaam_een</li><li>$Voornaam_twee</li><li>$Voornaam_drie</li>";
+
 ?>
