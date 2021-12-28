@@ -54,7 +54,13 @@
 
     
     echo $Tools; 
+
+    echo $br;
     
+    
+    $var_test = "test";
+    
+    var_dump($var_test);
     
 
 
